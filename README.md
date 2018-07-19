@@ -1,4 +1,4 @@
-Stream is a fully encrypted "ephemeral" chat server.
+# Stream is a fully encrypted "ephemeral" chat server.
 
 Includes:
 3 Static rooms (general, tech, stream)
@@ -8,7 +8,7 @@ Prerequisites:
 libsodium
 libnacl
 
-Setup:
+# Setup:
 By default Stream runs on TCP port 64666
 
 Run python stream_adduser.py to add your first user and generate the password db file.
